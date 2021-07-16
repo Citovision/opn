@@ -1,0 +1,18 @@
+body{color: darkturquoise;
+    background-color:black;
+
+}
+.name_of_objects{
+    color: yellow;
+}
+.heading{
+    width: 80%;
+    font-size: 27px;
+
+}
+#camera
+{
+    width: 400px;
+    height: 350px;
+    border: darkturquoise 2px dashed;
+}
